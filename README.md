@@ -2,7 +2,7 @@
 
 ## Project
 
-`2anonymity`: accessible data-anonymization web app that applies the concept of k-anonymity to reduce the sensitivity of a passed dataset, according to the user's chosen settings.
+**2anonymity**: accessible data-anonymization web app that applies the concept of k-anonymity to reduce the sensitivity of a passed dataset, according to the user's chosen settings.
 
 ## Links
 
